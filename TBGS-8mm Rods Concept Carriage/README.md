@@ -9,7 +9,7 @@
 This is a concept carriage to be used with the V2 Gantry. THIS IS STILL IN TESTING.
 
 
-If you like my work consider [buying me a coffee](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
+If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
 Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
