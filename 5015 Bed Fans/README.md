@@ -1,4 +1,4 @@
-# K1 5015 Bed Fans
+# 5015 Bed Fans
 
 ![274795451-fd37e89d-60dc-441f-81ba-99080f510d08](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/c98e4d41-0395-4537-8473-0910950deccc)
 
