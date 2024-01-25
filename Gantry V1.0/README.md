@@ -88,3 +88,6 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 ![Screenshot (70)](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/e6d94be0-4822-4783-b19c-1861868c4be3)
 
+
+
+All my work is protected under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license
