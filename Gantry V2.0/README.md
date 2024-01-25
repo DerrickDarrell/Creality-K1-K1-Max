@@ -18,7 +18,7 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 6:16 Benchy using V2 Gantry - [YouTube](https://www.youtube.com/watch?v=GfOL87u7CSw&ab_channel=DerrickDarrell)
 
 
-## IMPORTANT
+## **IMPORTANT**
  
  1. Consider this a WORK IN PROGRESS
  2. You are downloading/installing this mod willingly
