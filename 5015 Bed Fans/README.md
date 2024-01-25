@@ -9,7 +9,7 @@
 ## INTRODUCTION
 I made this mod to help with heating the enclosure. It uses one or two 5015 24V blowers. I have the fans wired in parallel using the exhaust fan port since I don't use it (up to you). These bed fans were tested using an AC bed (110V, 500W) and the printer completely sealed. The bed fans can work with the factory bed/bed heater but it won't be as effective. 
 
-If you like my work consider [buying me a coffee](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
+If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
 Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
