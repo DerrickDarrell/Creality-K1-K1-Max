@@ -11,7 +11,7 @@ With the V2 Gantry, replacing the factory steppers and 36t timing gears resulted
 
 The V1 Gantry uses the factory steppers, pulleys and other hardware. The V2 does not.
 
-If you would like to support the team and future projects, consider visiting our [Patreon](https://www.patreon.com/D3vilDesign). We will be posting behind the scene projects in the future, beta access projects and other exclusive content to our [Patreon](https://www.patreon.com/D3vilDesign) supporters. All funds go directly to the development and support of the D3vil Design Team!
+If you like my work consider [buying me a coffee](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
 Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
