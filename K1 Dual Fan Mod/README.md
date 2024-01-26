@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 I have ran dual 12032 blower fans in my Voron machines and wanted the same setup in my K1. So I made a dict for the left side.
-
+Enjoy the extra cooling, faster overhang speeds and lower layer times :)
 
 # IMPORTANT
 1. This mod requires you to drill holes in the left panel
