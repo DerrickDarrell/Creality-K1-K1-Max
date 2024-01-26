@@ -13,6 +13,8 @@ If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrel
 
 Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
+![screenshot-61](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/f560237c-a21d-461f-9daf-c8bb9b8f09c7)
+![screenshot-60](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/048cb082-d67a-42f2-af14-7ed784097452)
 
 # BOM
 - MX1.25-3pin
@@ -25,3 +27,5 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 - Supports needed
 - 0.15-0.2 layer height
 
+![screenshot-62](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/446588bd-65fa-4d96-88cf-b3f4b4aa35f4)
+![d66w](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/cccff262-036c-4253-8dce-d8e28fbe14b1)
