@@ -29,3 +29,10 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 ![screenshot-62](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/446588bd-65fa-4d96-88cf-b3f4b4aa35f4)
 ![d66w](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/cccff262-036c-4253-8dce-d8e28fbe14b1)
+
+
+
+
+
+
+All my work is protected under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license
