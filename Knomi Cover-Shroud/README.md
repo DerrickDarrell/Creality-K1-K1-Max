@@ -9,6 +9,12 @@ The Knomi and the shroud have a slight interference fit. Depending on how well y
 
 Use the free port labeled 'FILAMENT' in the back of the toolhead PCB (pictured) to power the Knomi. Red wire coming from Knomi goes to 'V', black wire goes to 'G'.
 
+
+After installing Knomi, please check BTT's github for further instructions
+
+https://github.com/bigtreetech/KNOMI
+
+
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
 Also consider joining our [Discord](https://discord.gg/d3vil-design)
