@@ -20,6 +20,11 @@ If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrel
 Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 
+
+# IMPORTANT
+This cover/shroud is for the Knomi V1 only
+
+
 # BOM
 - MX1.25-3pin
 - M3x6mm BHCS Screw
