@@ -55,8 +55,7 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 
 
-## LAST UPDATED: Oct 30, 2023
-
+## LAST UPDATED:
 -
 
 
