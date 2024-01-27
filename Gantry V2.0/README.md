@@ -112,4 +112,4 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 ![20231031_134104](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/2ca411f0-cd67-4cef-8942-e0dab0cb3d54)
 
 
-All my work is protected under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license
+## All my work is protected under the **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license
