@@ -30,6 +30,10 @@ This cover/shroud is for the Knomi V1 only
 - M3x6mm BHCS Screw
 
 
+# LAST UPDATED: Jan 27, 2024
+- Extra space in the spring retainer for Lidar cable
+
+
 # PRINT SETTINGS
 - ABS or better
 - Upright
