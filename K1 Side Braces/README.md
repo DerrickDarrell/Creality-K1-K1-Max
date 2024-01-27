@@ -1,5 +1,6 @@
 # K1 SIDE BRACES
-![20231022_225418](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/4206561b-92dc-4dd4-9215-494771ae762e)
+
+![300223062-4206561b-92dc-4dd4-9215-494771ae762e](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/0c485eab-bf78-447b-b4fb-d8d81f361920)
 
 
 # INTRODUCTION
