@@ -63,7 +63,7 @@ Settings I used (too much?)
 1. Install heat inserts on the bottom of the legs to hold the rubber feet
  - If using the clamp version of the legs, you will need to install heat inserts at the top of the legs too
 2. Remove bottom panel
-3. Slide legs into the corners till the holes align (should be a snug fit)
+3. Slide legs into the corners till the holes align 
 4. Install MB cooling fan using recommended mod
 5. Enjoy
 
