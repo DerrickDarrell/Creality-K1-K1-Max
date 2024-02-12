@@ -7,7 +7,7 @@
 I have a heavility modified K1 called [The AWD K1VZ](https://www.youtube.com/watch?v=dlzfl8IJW0U) and got tired of having to hold down the printer to keep it from hopping all over the place at high speeds.. So I made these.
 They've made a huge difference.
 
-The lip these legs mount to are not the same thickness in all K1's so I added a few different clearances. Measure the lip the bottom panel screws into. I recommend printing the test pieces to verify fitment so you know which legs you need.
+The lip these legs mount to are not the same thickness in all K1's so I added a few different clearances. Measure the lip the bottom panel screws into. I recommend printing the test pieces to verify fitment so you know which legs you need. Fitment needs to be tight but not impossible to install 😐
 
 There is also two different versions. One that use the threads on the frame or if for some reason yours are damaged, you can clean up the hole with a drill bit and use the clamp version. These will need a heat insert at the top of the leg for the M3x45mm BHCS to screw into.
 
