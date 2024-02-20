@@ -51,6 +51,7 @@ Settings I used (too much?)
 ## USEFUL LINKS
 
 [D3vil Design Team Discord](https://discord.gg/d3vil-design)
+
 [How to use heat inserts](https://ultimaker.com/learn/how-to-use-heat-set-inserts-to-securely-fasten-3d-printed-parts/)
 
 ## OTHER RECOMMENDED MODS
