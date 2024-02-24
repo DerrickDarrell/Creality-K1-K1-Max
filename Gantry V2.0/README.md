@@ -94,7 +94,7 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 - [D3vil Burner Toolhead Cover](https://github.com/D3vil-Design/K1-Hardware-Mods/tree/main/K1%20D3vil%20Burner%20Toolhead%20Cover)
 
-- [Knomi Shroud](https://www.printables.com/model/594021-creality-k1-k1-max-knomi-covershroud)
+- [Knomi Shroud](https://makerworld.com/en/models/179287)
 
 
 
