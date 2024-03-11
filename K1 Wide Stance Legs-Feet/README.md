@@ -25,6 +25,7 @@ Latest video using these legs - [YouTube](https://www.youtube.com/shorts/MX2oaUf
 4. Just because it fixed my issues/helped me, it does not mean it will do the same for you
 5. You will not be able to mount the bottom metal panel after installation
 6. You will need to recolate the MB Fan (check out Henlor's Fan mod)
+7. These have not been tested in the K1 Max
 
 
 ## BOM
