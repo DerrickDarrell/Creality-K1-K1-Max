@@ -4,9 +4,10 @@
 
 
 # INTRODUCTION
-I made these braces to strengthen the frame in the K1 3D printer. I haven't had the chance to properly test them (resonances, print quality) but I've had quite a few people ask for them.. so here they are.
 
-These braces take the place of the side panels. It will be a tight fit as it is meant to be. The acrylic side panels then mount over the braces.
+I made these braces to strengthen the frame in the K1 3D printer.
+
+From my previous versions I found out the panel likes to rattle against the printed part in the areas between the screws. You will need 1mm foam tape to prevent the panel rattling on the plastic (pictured)
 
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
@@ -14,6 +15,7 @@ If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrel
 Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 ![k1-braces-2024-01-27-165018](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/d2b1b0ed-1dc4-4de0-9f7d-9490005d8087)
+![Side Braces-2024-06-01 000228](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/7bb6b776-d7c0-41c4-b6d6-d94b64a60896)
 
 
 # IMPORTANT
