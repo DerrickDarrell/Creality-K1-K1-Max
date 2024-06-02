@@ -28,10 +28,11 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 - M3x18mm screws (outer perimeter)
 - 4x - M3x10mm BHCS screws
 - 4x - M3 hex nuts
+- 1mm foam tape
 
 
-# LAST UPDATED: Jan 27, 2024
--
+# LAST UPDATED: June 1, 2024
+- Will need 1mm foam tape to combat rattle between the mounting screws
 
 
 # PRINT SETTINGS
