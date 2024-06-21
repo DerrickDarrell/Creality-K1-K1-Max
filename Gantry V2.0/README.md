@@ -11,8 +11,6 @@ With the V2 Gantry, replacing the factory steppers and 36t timing gears resulted
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also consider joining our [Discord](https://discord.gg/d3vil-design)
-
 6:16 Benchy using V2 Gantry - [YouTube](https://www.youtube.com/watch?v=GfOL87u7CSw&ab_channel=DerrickDarrell)
 
 
@@ -77,7 +75,6 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 
 ## USEFUL LINKS
-[D3vil Design Team Discord](https://discord.gg/d3vil-design)
 
 [How to use heat inserts](https://ultimaker.com/learn/how-to-use-heat-set-inserts-to-securely-fasten-3d-printed-parts/)
 
