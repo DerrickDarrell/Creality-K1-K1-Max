@@ -13,7 +13,6 @@ There is also two different versions. One that use the threads on the frame or i
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 Latest video using these legs - [YouTube](https://www.youtube.com/shorts/MX2oaUfnXk0)
 
@@ -51,7 +50,6 @@ Settings I used (too much?)
 
 ## USEFUL LINKS
 
-[D3vil Design Team Discord](https://discord.gg/d3vil-design)
 
 [How to use heat inserts](https://ultimaker.com/learn/how-to-use-heat-set-inserts-to-securely-fasten-3d-printed-parts/)
 
