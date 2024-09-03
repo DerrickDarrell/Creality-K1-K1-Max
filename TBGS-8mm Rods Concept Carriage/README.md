@@ -11,6 +11,8 @@ This is a concept carriage to be used with the V2 Gantry. THIS IS STILL IN TESTI
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
+Also join my [Discord](http://discord.gg/novusterminus)
+
 
 
 6:16 Benchy using V2 Gantry & Concept Carriage - [YouTube](https://www.youtube.com/watch?v=GfOL87u7CSw&ab_channel=DerrickDarrell)
