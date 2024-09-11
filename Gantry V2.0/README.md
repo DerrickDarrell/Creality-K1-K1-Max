@@ -89,8 +89,6 @@ Also join my [Discord](http://discord.gg/novusterminus)
 
 - [Omranello's XY Joints](https://github.com/D3vil-Design/K1-Hardware-Mods/tree/main/K1%20XY%20joints%20V3.1)
 
-- [D3vil Burner Toolhead Cover](https://github.com/D3vil-Design/K1-Hardware-Mods/tree/main/K1%20D3vil%20Burner%20Toolhead%20Cover)
-
 - [Knomi Shroud](https://makerworld.com/en/models/179287)
 
 
