@@ -3,6 +3,9 @@
 
 
 # INTRODUCTION
+Working on some fixes for the V2 Shroud
+
+
 This is basically my original shroud except the blower has been lowered, added a mounting area for the Knomi and replaced the spring retainer on the carriage so you don't have to break off the USB-C port. I kept is as compact and as close to the original size as possible.
 
 The Knomi and the shroud have a slight interference fit. Depending on how well your printer is tuned it should have a snug fit. You will also need to print the replacement spring retainer so the USB-C port fits (V1 only) and the guitar looking thingy that holds the Knomi in place with a M3x6mm BHCS screw.
