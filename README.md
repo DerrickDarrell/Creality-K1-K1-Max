@@ -1,7 +1,7 @@
 ## CREALITY K1 / K1 MAX
 
-All my mods for the K1 and K1 Max
-Join my [Discord](http://discord.gg/r5QzHBZ8SH)
+-  All my mods for the K1 and K1 Max
+-  Join my [Discord](http://discord.gg/r5QzHBZ8SH)
 
 
 **THE CONTENTS OF THIS REPOSITORY FALL UNDER:**
