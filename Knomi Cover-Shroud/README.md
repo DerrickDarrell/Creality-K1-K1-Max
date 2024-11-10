@@ -20,7 +20,7 @@ https://github.com/bigtreetech/KNOMI
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also join my [Discord](http://discord.gg/novusterminus)
+Also join my [Discord](http://discord.gg/r5QzHBZ8SH)
 
 
 
