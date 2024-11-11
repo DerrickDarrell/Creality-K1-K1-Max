@@ -11,7 +11,6 @@ With the V2 Gantry, replacing the factory steppers and 36t timing gears resulted
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also join my [Discord](http://discord.gg/r5QzHBZ8SH)
 
 6:16 Benchy using V2 Gantry - [YouTube](https://www.youtube.com/watch?v=GfOL87u7CSw&ab_channel=DerrickDarrell)
 
