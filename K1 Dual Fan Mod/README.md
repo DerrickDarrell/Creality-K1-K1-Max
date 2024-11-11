@@ -8,7 +8,6 @@ Enjoy the extra cooling, faster overhang speeds and lower layer times :)
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also join my [Discord](http://discord.gg/r5QzHBZ8SH)
 
 
 # IMPORTANT
