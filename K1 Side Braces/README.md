@@ -12,7 +12,6 @@ From my previous versions I found out the panel likes to rattle against the prin
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also join my [Discord](http://discord.gg/r5QzHBZ8SH)
 
 ![k1-braces-2024-01-27-165018](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/d2b1b0ed-1dc4-4de0-9f7d-9490005d8087)
 ![Side Braces-2024-06-01 000228](https://github.com/DerrickDarrell/Creality-K1-K1-Max/assets/145330457/7bb6b776-d7c0-41c4-b6d6-d94b64a60896)
