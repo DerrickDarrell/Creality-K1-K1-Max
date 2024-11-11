@@ -11,7 +11,6 @@ I made this mod to help with heating the enclosure. It uses one or two 5015 24V 
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-Also join my [Discord](http://discord.gg/r5QzHBZ8SH)
 
 
 ## IMPORTANT
