@@ -1,8 +1,8 @@
 ## **BOM**
 
 - 3x - 16T 5mm Bore timing gears (10mm belt - tall)
-- 2x - 136mm closed loop belts
-- 1x - 132mm closed loop belt
+- 2x - 136mm closed loop belts (front)
+- 1x - 132mm closed loop belt (rear)
 - 1x - 20t 6mm bore timing gear (optional - for rear lead screw)
 - 3x - nema 17 stepper motors (40Ncm or better)
 - M3 screws of various lengths
