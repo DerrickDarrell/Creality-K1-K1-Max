@@ -1,4 +1,4 @@
-## **BOM**
+## BOM
 
 - 3x - 16T 5mm Bore timing gears (10mm belt - tall)
 - 2x - 136mm closed loop belts (front)
