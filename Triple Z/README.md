@@ -52,7 +52,7 @@ https://www.amazon.com/gp/product/B01MCZE2HM/ref=ppx_yo_dt_b_search_asin_title?i
 
 The 20T timing gears on the front lead screws need to be flipped around. This allows you to sit the gear and belt lower on the motor's shaft for better stability. 
 
-You will need to setip Z tilt in klipper, check the link below
+You will need to setup Z-Tilt in klipper, check the link below
 
 https://www.klipper3d.org/Config_Reference.html?h=pixel#z_tilt
 
