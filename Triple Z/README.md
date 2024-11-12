@@ -1,4 +1,4 @@
-**BOM**
+## **BOM**
 
 3x - 16T 5mm Bore timing gears (10mm belt - tall)
 2x - 136mm closed loop belts
@@ -8,7 +8,7 @@
 M3 screws of various lengths
 
 
-**IMPORTANT**
+## **IMPORTANT**
 
 1. You're doing this willingly
 2. I am not responsible if you damage your printer or whatever worse may come of it
@@ -21,7 +21,7 @@ M3 screws of various lengths
 9. **If you don't know what you're doing and are asking a thousand questions, maybe you shouldn't be doing this**
 
 
-**HARDWARE USED**
+## **HARDWARE USED**
 
 Stepper Motors
 https://www.amazon.com/dp/B0B38GHRH8?ref=ppx_yo2ov_dt_b_product_details&th=1
@@ -48,7 +48,7 @@ https://www.amazon.com/gp/product/B0C2TTG1SW/ref=ppx_yo_dt_b_search_asin_title?i
 https://www.amazon.com/gp/product/B01MCZE2HM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 
-**OTHER INFO**
+## **OTHER INFO**
 
 The 20T timing gears on the front lead screws need to be flipped around. This allows you to sit the gear and belt lower on the motor's shaft for better stability. 
 
