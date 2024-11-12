@@ -18,7 +18,7 @@
 6. If you use the stepperonline motors listed bellow, you might need to swap the middle pins
 7. Use blue loctite on all timing gear grub screws
 8. K1 Max users will need to upgrade their power supply
-9. **If you don't know what you're doing and are asking a thousand questions, maybe you shouldn't be doing this**
+9. If you don't know what you're doing and are asking a thousand questions, maybe you shouldn't be doing this
 
 
 ## HARDWARE USED
