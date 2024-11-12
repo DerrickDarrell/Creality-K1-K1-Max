@@ -41,7 +41,7 @@ https://www.amazon.com/dp/B07B5X74TX?psc=1&ref=ppx_yo2ov_dt_b_product_details
 20T 6mm bore timing gear (optional)
 https://www.amazon.com/dp/B07PPGQV6K?ref=ppx_yo2ov_dt_b_product_details&th=1
 
-drill bits
+Drill bits
 https://www.amazon.com/gp/product/B0C2TTG1SW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
 2.54mm JST-XH connectors (for stepperonline motors)
