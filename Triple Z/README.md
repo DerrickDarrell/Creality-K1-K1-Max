@@ -60,6 +60,12 @@ rotation_distance: 8
 gear_ratio: 20:16
 
 
+![2024-09-11_8f9d08bcb95b9](https://github.com/user-attachments/assets/6ddf3d51-2e46-4c4b-9ebd-a2e615cbe783)
+![20240216_175003](https://github.com/user-attachments/assets/d5e1bd61-5321-46d9-be9b-8bc0aee126e7)
+![20240216_194147](https://github.com/user-attachments/assets/b8507894-3ab1-4ec8-9788-71adb0fd563a)
+![20240216_201554](https://github.com/user-attachments/assets/2a8f7eb8-f694-4a2c-9df1-74fd66d04bca)
+![20240217_151309](https://github.com/user-attachments/assets/c2dc584b-1670-430d-b957-4e63e3679b52)
+![20240217_151255](https://github.com/user-attachments/assets/ec61f45c-95f7-4cb8-a462-5db1311f93f3)
 
 
 
